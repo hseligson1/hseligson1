@@ -19,6 +19,9 @@ I'm a prior API Developer 💻, Developer Advocate 🤝, and Tech Writer 📝!
 <a href="https://www.linkedin.com/in/hannahseligson/">
   <img src="https://github.com/hseligson1/hseligson1/blob/main/images/linkedin.png" alt="Hannah Seligson | LinkedIn" width="21px"/>
 </a>
+<a href="https://twitter.com/TechWithHannah">
+  <img src="https://github.com/hseligson1/hseligson1/blob/main/images/twitter.png" alt="Tech with Hannah | Twitter" width="21px"/>
+</a>
 <a href="https://www.instagram.com/techwithhannah/">
   <img src="https://github.com/hseligson1/hseligson1/blob/main/images/instagram.png" alt="Tech with Hannah | Instagram" width="21px"/>
 </a>
