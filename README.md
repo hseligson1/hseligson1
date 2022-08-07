@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.techwithhannah.com/" target="_blank" rel="nor
 </h3>
 
 <h2 align="center">
-I'm a prior API Developer 💻, Developer Advocate 🤝, and Tech Writer 📝!
+I'm a Developer Advocate 🤝, Tech Writer 📝, and prior API Developer 💻!
 </h2>
 
 ## I love engaging with tech communities to learn about what sort of resources are needed to accomplish their goals, all while fostering an inclusive approach.
