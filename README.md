@@ -64,7 +64,7 @@ I'm a Developer Advocate 🤝, Tech Writer 📝, and prior API Developer 💻!
 
 </br>
 
-## 📝 Notewrothy Blog Posts
+## 📝 Noteworthy Blog Posts
 
 - [Argo CD Best Practices](https://medium.com/containers-101/best-practices-for-argo-cd-8253bcd31897)
 - [Deploying Microservices with GitOps](https://medium.com/containers-101/deploying-microservices-with-gitops-f80d46ed72d6)
