@@ -35,7 +35,7 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 ## 🔭 I'm currently working on
 
 - Connecting with HubSpot Devs focusing on API best practices and CRM customizations!
-- Creating a Developer Advocacy Inclusion Guide 😄
+- Seeking ways to generate awareness and start a Developer Advocacy Inclusion Guide 😄
 
 ## 🌱 I'm currently learning
 
