@@ -66,6 +66,7 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 
 - [Argo CD Best Practices](https://medium.com/containers-101/best-practices-for-argo-cd-8253bcd31897)
 - [Deploying Microservices with GitOps](https://medium.com/containers-101/deploying-microservices-with-gitops-f80d46ed72d6)
+- [Red Hat Live Webinar: GitOps Guide to the Galaxy (Ep 34) | Autopilot with Codefresh](https://youtu.be/APWI1SolwXM)
 - [Aqua Security Live Interview:Getting started contributing to open source as an engineer](https://youtu.be/v58p413lkEM)
 - [HubSpot Developer Blog: How to Set Up and Use HubSpot CRM Cards](https://developers.hubspot.com/blog/how-to-set-up-and-use-hubspot-crm-cards)
 - [HubSpot Product Blog: Workplace Courage: Fostering Bravery in Tech](https://product.hubspot.com/blog/workplace-courage)
