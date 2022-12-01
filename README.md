@@ -12,7 +12,7 @@ I'm a Developer Advocate 🤝, Tech Writer 📝, and prior API Developer 💻!
 
 ## I love engaging with tech communities to learn about what sort of resources are needed to accomplish their goals, all while fostering an inclusive approach.
 
-<p>I've been a developer since 2016 and worked alongside developer communities, large corporations, small start-ups, and mentored students who have allowed me to support their initiatives. I've done this by cont ributing content such as technical documentation, blogs, webinars, forums, conferences, and engaged in community discussions.</p>
+<p>I've been a developer since 2016 and worked alongside developer communities, large corporations, small start-ups, and mentored students who have allowed me to support their initiatives. I've done this by contributing content such as technical documentation, blogs, webinars, forums, and spoken at conferences, and engaged in community discussions.</p>
 
 ## 🤝 Connect with me
 
