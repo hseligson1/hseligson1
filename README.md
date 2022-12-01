@@ -63,6 +63,9 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 
 ![.Net](https://img.shields.io/badge/dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 
 ![Argo](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 
