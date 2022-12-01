@@ -14,7 +14,9 @@ I'm a Developer Advocate 🤝, Tech Writer 📝, and prior API Developer 💻!
 
 <p>I've been a developer since 2016 and worked alongside developer communities, large corporations, small start-ups, and mentored students who have allowed me to support their initiatives. I've done this by contributing content such as technical documentation, blogs, webinars, forums, conferences, and engaged in community discussions.</p>
 
-### 🤝 Connect with me
+## 🤝 Connect with me
+
+If you have any question/feedback, please do not hesitate to reach out to me!
 
 <a href="https://www.linkedin.com/in/hannahseligson/">
   <img src="https://github.com/hseligson1/hseligson1/blob/main/images/linkedin.png" alt="Hannah Seligson | LinkedIn" width="21px"/>
@@ -29,8 +31,6 @@ I'm a Developer Advocate 🤝, Tech Writer 📝, and prior API Developer 💻!
   <img src="https://github.com/hseligson1/hseligson1/blob/main/images/medium.png" alt="Tech with Hannah | Medium" width="21px"/>
 </a>
 </br>
-
-💬  If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
@@ -64,7 +64,22 @@ I'm a Developer Advocate 🤝, Tech Writer 📝, and prior API Developer 💻!
 
 </br>
 
-## 📝 Noteworthy Blog Posts
+## 📝 Noteworthy Blog Posts and Discussions
 
 - [Argo CD Best Practices](https://medium.com/containers-101/best-practices-for-argo-cd-8253bcd31897)
 - [Deploying Microservices with GitOps](https://medium.com/containers-101/deploying-microservices-with-gitops-f80d46ed72d6)
+- [Aqua Security Live Interview:Getting started contributing to open source as an engineer](https://youtu.be/v58p413lkEM)
+- [HubSpot Developer Blog: How to Set Up and Use HubSpot CRM Cards](https://developers.hubspot.com/blog/how-to-set-up-and-use-hubspot-crm-cards)
+- [HubSpot Product Blog: Workplace Courage: Fostering Bravery in Tech](https://product.hubspot.com/blog/workplace-courage)
+- [HubSpot Developer Blog: What’s the Difference Between HubDB and a Custom Object?](https://developers.hubspot.com/blog/whats-the-difference-between-hubdb-and-a-custom-object)
+
+## 🎙 Noteworthy Conferences
+
+- [HubSpot Extend.() 2022 Conference:A Newbie’s Perspective on Becoming a HubSpot CRM Developer](https://youtu.be/7lILDFcQCyE)
+- [CNCF GitOps Con EU 2022: Applied GitOps with Argo CD Autopilot Using Multiple Clusters with an ApplicationSet](https://youtu.be/r3k2qI2NDsA)
+- [ArgoCon 2021: Scaling Software Delivery on Argo](https://www.youtube.com/watch?v=hS_y4SxiPME)
+
+## 💻 Noteworthy Projects
+
+- [GitOps Fundamentals Course](https://learning.codefresh.io/)
+- [GitOps at Scale Course](https://learning.codefresh.io/)
