@@ -84,4 +84,4 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 - [GitOps Fundamentals Course](https://learning.codefresh.io/)
 - [GitOps at Scale Course](https://learning.codefresh.io/)
 
-Contributions included authorship and project management.
+Contributions included authorship and leading project management.
