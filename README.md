@@ -1,4 +1,4 @@
-<p align="center">
+`<p align="center">
   <a href="https://www.techwithhannah.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/84354430/183307008-c01bbe97-d867-4aef-b688-9ed0329b3325.png" alt="my banner"></a>
 </p>
 
@@ -12,7 +12,7 @@ I'm a Developer Advocate 🤝, Tech Writer 📝, and prior API Developer 💻!
 
 ## I love engaging with tech communities to learn about what sort of resources are needed to accomplish their goals, all while fostering an inclusive approach.
 
-<p>I've been a developer since 2016 and worked alongside developer communities, large corporations, small start-ups, and mentored students who have allowed me to support their initiatives. I've done this by contributing content such as technical documentation, blogs, webinars, forums, conferences, and engaged in community discussions.</p>
+<p>I've been a developer since 2016 and worked alongside developer communities, large corporations, small start-ups, and mentored students who have allowed me to support their initiatives. I've done this by cont ributing content such as technical documentation, blogs, webinars, forums, conferences, and engaged in community discussions.</p>
 
 ## 🤝 Connect with me
 
@@ -83,3 +83,5 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 
 - [GitOps Fundamentals Course](https://learning.codefresh.io/)
 - [GitOps at Scale Course](https://learning.codefresh.io/)
+
+Contributions included authorship and project management.
