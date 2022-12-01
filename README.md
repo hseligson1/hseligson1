@@ -61,7 +61,6 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-2C8EBB.svg?style=for-the-badge&logo=postman&logoColorr=white)
 
-</br>
 
 ## 📝 Noteworthy Blog Posts and Discussions
 
