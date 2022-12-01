@@ -59,7 +59,12 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 ![Civo](https://img.shields.io/badge/civo-239DFF.svg?style=for-the-badge&logo=civo&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-2C8EBB.svg?style=for-the-badge&logo=postman&logoColorr=white)
+![Postman](https://img.shields.io/badge/postman-2C8EBB.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+![.Net](https://img.shields.io/badge/dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![JSON](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white)
+
+![Argo](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 
 
 ## 📝 Noteworthy Blog Posts and Discussions
