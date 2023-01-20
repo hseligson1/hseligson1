@@ -78,6 +78,7 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 - [HubSpot Product Blog: Workplace Courage: Fostering Bravery in Tech](https://product.hubspot.com/blog/workplace-courage)
 - [HubSpot Developer Blog: What’s the Difference Between HubDB and a Custom Object?](https://developers.hubspot.com/blog/whats-the-difference-between-hubdb-and-a-custom-object)
 - [HubSpot Developer Blog: A Newbie's Perspective on Becoming a CRM Developer](https://developers.hubspot.com/blog/a-newbies-perspective-on-becoming-a-crm-developer)
+- [HubSpot Developer Blog: When is it best to use a Webhook vs. an API with HubSpot?](https://developers.hubspot.com/blog/when-is-it-best-to-use-a-webhook-vs.-an-api-with-hubspot)
 
 ## 🎙 Noteworthy Conferences
 
