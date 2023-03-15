@@ -16,7 +16,7 @@ I'm a Developer Advocate 🤝, Tech Writer 📝, and prior API Developer 💻!
 
 ## 🤝 Connect with me
 
-If you have any question/feedback, please do not hesitate to reach out to me!
+If you have any question/feedback, please do not hesitate to reach out!
 
 <a href="https://www.linkedin.com/in/hannahseligson/">
   <img src="https://github.com/hseligson1/hseligson1/blob/main/images/linkedin.png" alt="Hannah Seligson | LinkedIn" width="21px"/>
@@ -41,6 +41,7 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 
 - API best practices
 - Python
+- Kubernetes
 
 ## 💼 Technical Skills
 
@@ -79,6 +80,7 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 - [HubSpot Developer Blog: What’s the Difference Between HubDB and a Custom Object?](https://developers.hubspot.com/blog/whats-the-difference-between-hubdb-and-a-custom-object)
 - [HubSpot Developer Blog: A Newbie's Perspective on Becoming a CRM Developer](https://developers.hubspot.com/blog/a-newbies-perspective-on-becoming-a-crm-developer)
 - [HubSpot Developer Blog: When is it best to use a Webhook vs. an API with HubSpot?](https://developers.hubspot.com/blog/when-is-it-best-to-use-a-webhook-vs.-an-api-with-hubspot)
+- [Tech with Hannah: Kubernetes 101 Series: Part 1 - What is Kubernetes and its fundamental components?](https://www.techwithhannah.com/post/kubernetes-101-part-1)
 
 ## 🎙 Noteworthy Conferences
 
