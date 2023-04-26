@@ -69,7 +69,7 @@ If you have any question/feedback, please do not hesitate to reach out!
 
 ![Argo](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 
-## 📝 Noteworthy Blog Posts and Discussions
+## 📝 Noteworthy Blog Posts and Webinar Discussions
 
 - [Argo CD Best Practices](https://medium.com/containers-101/best-practices-for-argo-cd-8253bcd31897)
 - [Deploying Microservices with GitOps](https://medium.com/containers-101/deploying-microservices-with-gitops-f80d46ed72d6)
@@ -81,6 +81,7 @@ If you have any question/feedback, please do not hesitate to reach out!
 - [HubSpot Developer Blog: A Newbie's Perspective on Becoming a CRM Developer](https://developers.hubspot.com/blog/a-newbies-perspective-on-becoming-a-crm-developer)
 - [HubSpot Developer Blog: When is it best to use a Webhook vs. an API with HubSpot?](https://developers.hubspot.com/blog/when-is-it-best-to-use-a-webhook-vs.-an-api-with-hubspot)
 - [Tech with Hannah: Kubernetes 101 Series: Part 1 - What is Kubernetes and its fundamental components?](https://www.techwithhannah.com/post/kubernetes-101-part-1)
+- [She Can Cloud Native with Anaïs Urlichs, Kubernetes 101: What I wish I knew as a Developer](https://www.youtube.com/live/3mNxtNqGk78?feature=share)
 
 ## 🎙 Noteworthy Conferences
 
