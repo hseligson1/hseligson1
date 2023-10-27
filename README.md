@@ -41,6 +41,8 @@ If you have any question/feedback, please do not hesitate to reach out!
 
 - API best practices
 - Python
+- React
+- JavaScript
 - Kubernetes
 
 ## 💼 Technical Skills
