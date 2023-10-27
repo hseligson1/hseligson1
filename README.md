@@ -80,7 +80,7 @@ If you have any question/feedback, please do not hesitate to reach out!
 - [HubSpot Developer Blog: What’s the Difference Between HubDB and a Custom Object?](https://developers.hubspot.com/blog/whats-the-difference-between-hubdb-and-a-custom-object)
 - [HubSpot Developer Blog: A Newbie's Perspective on Becoming a CRM Developer](https://developers.hubspot.com/blog/a-newbies-perspective-on-becoming-a-crm-developer)
 - [HubSpot Developer Blog: When is it best to use a Webhook vs. an API with HubSpot?](https://developers.hubspot.com/blog/when-is-it-best-to-use-a-webhook-vs.-an-api-with-hubspot)
-- [HubSpot Developer Blog: How to Process Webhooks in HubSpot Workflows Using AWS Lambda(https://developers.hubspot.com/blog/how-to-process-webhooks-in-hubspot-workflows-using-aws-lambda)
+- [HubSpot Developer Blog: How to Process Webhooks in HubSpot Workflows Using AWS Lambda](https://developers.hubspot.com/blog/how-to-process-webhooks-in-hubspot-workflows-using-aws-lambda)
 - [Tech with Hannah: Kubernetes 101 Series: Part 1 - What is Kubernetes and its fundamental components?](https://www.techwithhannah.com/post/kubernetes-101-part-1)
 - [She Can Cloud Native with Anaïs Urlichs, Kubernetes 101: What I wish I knew as a Developer](https://www.youtube.com/live/3mNxtNqGk78?feature=share)
 
