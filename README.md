@@ -76,7 +76,7 @@ If you have any question/feedback, please do not hesitate to reach out!
 - [Argo CD Best Practices](https://medium.com/containers-101/best-practices-for-argo-cd-8253bcd31897)
 - [Deploying Microservices with GitOps](https://medium.com/containers-101/deploying-microservices-with-gitops-f80d46ed72d6)
 - [Red Hat Live Webinar: GitOps Guide to the Galaxy (Ep 34) | Autopilot with Codefresh](https://youtu.be/APWI1SolwXM)
-- [Aqua Security Live Interview:Getting started contributing to open source as an engineer](https://youtu.be/v58p413lkEM)
+- [Aqua Security Live Interview: Getting started contributing to open source as an engineer](https://youtu.be/v58p413lkEM)
 - [HubSpot Developer Blog: How to Set Up and Use HubSpot CRM Cards](https://developers.hubspot.com/blog/how-to-set-up-and-use-hubspot-crm-cards)
 - [HubSpot Product Blog: Workplace Courage: Fostering Bravery in Tech](https://product.hubspot.com/blog/workplace-courage)
 - [HubSpot Developer Blog: What’s the Difference Between HubDB and a Custom Object?](https://developers.hubspot.com/blog/whats-the-difference-between-hubdb-and-a-custom-object)
@@ -85,6 +85,7 @@ If you have any question/feedback, please do not hesitate to reach out!
 - [HubSpot Developer Blog: How to Process Webhooks in HubSpot Workflows Using AWS Lambda](https://developers.hubspot.com/blog/how-to-process-webhooks-in-hubspot-workflows-using-aws-lambda)
 - [Tech with Hannah: Kubernetes 101 Series: Part 1 - What is Kubernetes and its fundamental components?](https://www.techwithhannah.com/post/kubernetes-101-part-1)
 - [She Can Cloud Native with Anaïs Urlichs, Kubernetes 101: What I wish I knew as a Developer](https://www.youtube.com/live/3mNxtNqGk78?feature=share)
+- [How HubSpot uses Postman and GitHub for real-time API updates](https://blog.postman.com/how-hubspot-uses-postman-and-github-for-real-time-api-updates/)
 
 ## 🎙 Noteworthy Conferences
 
@@ -97,5 +98,6 @@ If you have any question/feedback, please do not hesitate to reach out!
 
 - [GitOps Fundamentals Course](https://learning.codefresh.io/)
 - [GitOps at Scale Course](https://learning.codefresh.io/)
+- [HubSpot Public API Workspace on Postman](https://www.postman.com/hubspot/workspace/hubspot-public-api-workspace/overview)
 
 Contributions included authorship and leading project management.
