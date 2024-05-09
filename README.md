@@ -10,13 +10,13 @@ Hi there, I'm <a href="https://www.techwithhannah.com/" target="_blank" rel="nor
 I'm a Developer Advocate 🤝, Tech Writer 📝, and prior API Developer 💻!
 </h2>
 
-## I love engaging with tech communities to learn about what sort of resources are needed to accomplish their goals, all while fostering an inclusive approach.
+## I love engaging with tech communities to learn what resources are needed to accomplish their goals while fostering an inclusive approach.
 
 <p>I've been a developer since 2016 and worked alongside developer communities, large corporations, small start-ups, and mentored students who have allowed me to support their initiatives. I've done this by contributing content such as technical documentation, blogs, webinars, forums, and spoken at conferences, and engaged in community discussions.</p>
 
 ## 🤝 Connect with me
 
-If you have any question/feedback, please do not hesitate to reach out!
+If you have any questions/feedback, please do not hesitate to reach out!
 
 <a href="https://www.linkedin.com/in/hannahseligson/">
   <img src="https://github.com/hseligson1/hseligson1/blob/main/images/linkedin.png" alt="Hannah Seligson | LinkedIn" width="21px"/>
@@ -89,6 +89,7 @@ If you have any question/feedback, please do not hesitate to reach out!
 
 ## 🎙 Noteworthy Conferences
 
+- [POST/CON 2024 Conference: Enhancing Developer Advocacy with Postman: A HubSpot Case Study](https://www.postman.com/postcon/speakers/#:~:text=Developer%20Advocate%2C%20GitHub-,Lightning%20talk,Hannah%20Seligson,-Senior%20Developer%20Advocate)
 - [HubSpot INBOUND 2023 Conference: Scaling Business with HubSpot Platform Functionality](https://youtu.be/UkYqwwy7C7g?feature=shared)
 - [HubSpot Extend.() 2022 Conference: A Newbie’s Perspective on Becoming a HubSpot CRM Developer](https://youtu.be/7lILDFcQCyE)
 - [CNCF GitOps Con EU 2022: Applied GitOps with Argo CD Autopilot Using Multiple Clusters with an ApplicationSet](https://youtu.be/r3k2qI2NDsA)
