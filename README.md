@@ -35,7 +35,7 @@ If you have any questions/feedback, please do not hesitate to reach out!
 ## 🔭 I'm currently working on
 
 - Connecting with HubSpot Devs focusing on API best practices and CRM customizations!
-- Seeking ways to generate awareness and start a Developer Advocacy Inclusion Guide 😄
+- Builing AI Solutions for HubSpot Developers!
 
 ## 🌱 I'm currently learning
 
@@ -89,6 +89,7 @@ If you have any questions/feedback, please do not hesitate to reach out!
 
 ## 🎙 Noteworthy Conferences
 
+- [POST/CON 2025 Conference: Scaling Developer Relations with Postman](https://postcon.postman.com/2025/speaker/1640462/hannah-seligson)
 - [POST/CON 2024 Conference: Enhancing Developer Advocacy with Postman: A HubSpot Case Study](https://www.postman.com/postcon/speakers/#:~:text=Developer%20Advocate%2C%20GitHub-,Lightning%20talk,Hannah%20Seligson,-Senior%20Developer%20Advocate)
 - [HubSpot INBOUND 2023 Conference: Scaling Business with HubSpot Platform Functionality](https://youtu.be/UkYqwwy7C7g?feature=shared)
 - [HubSpot Extend.() 2022 Conference: A Newbie’s Perspective on Becoming a HubSpot CRM Developer](https://youtu.be/7lILDFcQCyE)
@@ -100,5 +101,8 @@ If you have any questions/feedback, please do not hesitate to reach out!
 - [GitOps Fundamentals Course](https://learning.codefresh.io/)
 - [GitOps at Scale Course](https://learning.codefresh.io/)
 - [HubSpot Public API Workspace on Postman](https://www.postman.com/hubspot/workspace/hubspot-public-api-workspace/overview)
+- [HubSpot Public Developer Use Case Workspace on Postman](https://www.postman.com/hubspot/hubspot-developer-use-cases)
+- [HubSpot Public Flow Workspace on Postman](https://www.postman.com/hubspot/hubspot-flows-workspace)
+- [HubSpot RAG Assistant](https://github.com/hubspotdev/hubspot-rag-assistant)
 
 Contributions included authorship and leading project management.
